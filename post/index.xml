@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Lokesh Rathi</title>
+    <link>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/</link>
+    <description>Recent content in Projects on Lokesh Rathi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IBM HR Analytics Employee Attrition &amp; Performance </title>
+      <link>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/ibm_hr/</link>
+      <pubDate>Wed, 01 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/ibm_hr/</guid>
+      <description>In this Notebook, we try to analyse and predict on Attriction on the IBM employee Dataset.
+  Data Visualisation using Matplotlib and Seaborn was done to gain insights on the Dataset.     Data Cleaning was done by a) Removing redundant layers b)Values with high collinearity c)Columns having more than 96% same value d)Columns that have least correlation with the target variable.     Data Scaling usin RobustScaler was carried out.</description>
+    </item>
+    
+    <item>
+      <title>Covid-19 World-Wide Analysis</title>
+      <link>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/covid-19-project/</link>
+      <pubDate>Mon, 15 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/covid-19-project/</guid>
+      <description>This Notebook was created to depict the world wide effect of Corona Virus on the world. Someone who wants to know the statistics about the cases (Death, Recovered, Active, Confirmed) can have a look at this notebook and gain insights on the pandemic. Data Visualisation using Matplotlib and Plotly was done to gain insights on the Pandemic. Various insights were drawn from the data where countries who did impose the Lockdown early have shown to have lesser Confirmed Cases than the ones who imposed the Lockdown later.</description>
+    </item>
+    
+    <item>
+      <title>Deep Analysis on Indian Elections 2019</title>
+      <link>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/indian-election-2019/</link>
+      <pubDate>Mon, 15 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/indian-election-2019/</guid>
+      <description>This notebook provides you with a detailed analysis on Indian Election-2019.    Analysis of number of constituencies from each state to the number of candidates with criminal records is shown using Plots and Charts. Data was extracted from Kaggle.    From the young winners to the oldest, this notebook will provide you all the details you wish to know about.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Netflix Movie Recommendation Model</title>
+      <link>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/netflix_movie_preject/</link>
+      <pubDate>Mon, 15 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/netflix_movie_preject/</guid>
+      <description>This notebook provides companies(like Netflix, Amazon) to recommend Movies to its users where he/she will be most interested in and is likely to provide better Ratings. This is computed based on the previous reviews provided by the user.    Machine Learning Algorithm, SVD was used to predict the Movies for the users. Data Cleaning was done to remove the users who are inactive and dont review. We also removed the movies which were reviewed less than the benchmark i.</description>
+    </item>
+    
+    <item>
+      <title>Suicide Analysis - 1987-2006</title>
+      <link>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/project-3/</link>
+      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/project-3/</guid>
+      <description>This Analysis Report provides a graphical representation on the number of suicides from 1987 - 2006 in the world.
+  Exploratory Data Analysis was conducted to find out insights and remove unwanted data to get a better visual on the data..
+  Data Visualisation Technique(seaborn ), to show the number of suicides by males and females.     Conclusions were made based on GDP of a country, year,generation and many other has been updated in the report .</description>
+    </item>
+    
+    <item>
+      <title>Bangalore City House Rate </title>
+      <link>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/project2/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/project2/</guid>
+      <description>Using Pandas library to perform Exploratory Data Analysis, where people can guess an estimate of house prices at various places in Bangalore. Removing Outliers using Mean and Standard Deviation for better understanding of the data. Performed One Hot Encoding to train and test the Linear Regression model to arrive at a r^2 value of 0.86. for the prediction of house price. Deployment using Streamlit on Heroku app    Link to repository</description>
+    </item>
+    
+    <item>
+      <title>Investment Analysis- Loans provided from Banks</title>
+      <link>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/project1/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/project1/</guid>
+      <description>This project focuses on gaining insights into Investment business and understanding the driving factors behind loan defaulters and distribution of loan issued. This Analysis report shows Online Loan study, where multiple derivations based on Return of Investment,Loan Defaulted, Number of loans issued based on employment, state, loan_puprose and other metrics have been depicted.    Feature Engineering to extarct variable data columns for analysis on loan defaulters. Univariate, Bivariate Analysis for Business understanding using Visualisation tools such as Seaborn.</description>
+    </item>
+    
+    <item>
+      <title>NBA Players Analysis-2013</title>
+      <link>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/nba_webscrape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Portfolio_1/post/nba_webscrape/</guid>
+      <description>This notebook provides a easy approach to extract data from html pages. Using pd.read_html() function to read HTML webpage, we scrapped the data After scrapping the desired data, we choose the required table to perfom the analysis. Data was cleaned by removing the headers present in the data and the required columns were provided with the correct datatype.    The Web scrapping here has been done NBA DATASET.</description>
+    </item>
+    
+  </channel>
+</rss>
